@@ -1,5 +1,5 @@
 (function () {
-    var ul; // Declare a variable to store the <ul> element
+    var ul;
 
     function SVG3DTagCloud(element, params) {
 
